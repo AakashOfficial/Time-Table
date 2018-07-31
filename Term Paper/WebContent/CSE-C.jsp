@@ -129,11 +129,6 @@
 	</center> 
 		
 <%@include file="Footer.jsp" %>		
-		
-<script type="text/javascript">
-
-</script>
-
-	
+			
    </body>
  </html>
