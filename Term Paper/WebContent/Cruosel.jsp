@@ -1,6 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE html>
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -16,15 +16,8 @@
     <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
     <script src="http://netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
 
-
-
-
-
 </head>
 <body>
-
-
-
 
 <div class="fluid-container">
   <div id="myCarousel" class="carousel slide" data-ride="carousel">
@@ -292,12 +285,6 @@
       <div class="item">
         <!-- Section C Time Table Slide Ends Here -->
 		
-		
-		
-		
-		
-		
-		
 		<center>
      <table>
 	    <tr>
@@ -429,13 +416,7 @@
 	  <div class="item">
         <!-- Section D Time Table Slide Start  -->
 		
-		
-		
-		
-		
-		
-		
-		
+			
 		
 		<center>
      <table>
@@ -536,13 +517,8 @@
 	 </table>
 	</center> 
 		
-		
-		
-		
+	
 		<!-- Section D Time Table Slide Ends -->
-		
-		
-		
 		
 		
         <div class="carousel-caption">
@@ -564,10 +540,6 @@
     </a>
   </div>
 </div>
-
-
-
-
 
 </body>
 </html>
