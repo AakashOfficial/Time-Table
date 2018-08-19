@@ -29,8 +29,5 @@
 
 <%@include file="FooterBefore.jsp" %>
 
-<script type="text/javascript">
-
-</script>
 </body>
 </html>
