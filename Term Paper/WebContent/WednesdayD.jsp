@@ -1,7 +1,7 @@
 <doctype html !>
  <html>
    <head>
-     <title>Time Table</title>
+     <title>Wednesday Time Table Od Section D</title>
 	 <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="http://netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
 	 <link rel="stylesheet" type="text/css" href="table.css"> 
@@ -69,9 +69,6 @@
 	</center> 	
 	
 <%@include file="Footer.jsp" %>
-    		
-<script type="text/javascript">
-
-</script>	
+	
    </body>
  </html>
