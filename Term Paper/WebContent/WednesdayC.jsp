@@ -68,18 +68,11 @@
 		<tr>
 		   <td>3:10-4:05</td>
 		  <td colspan="2"> </td>
-		</tr>
-		
-		
+	     </tr>
 	 </table>
 	</center> 
 		
 <%@include file="Footer.jsp" %>		
-		
-<script type="text/javascript">
-
-</script>
-
 	
    </body>
  </html>
