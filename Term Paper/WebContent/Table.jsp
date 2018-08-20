@@ -5,31 +5,22 @@
     <title>Time Table</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="http://netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
-	<!-- CSS Files -->
-    <link href="table.css" rel="stylesheet" />
-          
+    <link href="table.css" rel="stylesheet" />        
     <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
     <script src="http://netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
 </head>
-
-
 <body>
-
 <%@include file="HeaderBefore.jsp" %>
-
-
 <!-- Cruosel Start Here -->
 
 <%@include file="CruoselU.jsp" %>
 
 <!-- Cruosel Ends Here -->
-      
-       
+            
 	 <!-- Table Starts Here -->
 	   
         <div class="container">
-	<div class="row">
-		
+	<div class="row">		
 		<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
 			<div class="offer offer-success" >
 				<div class="shape">
@@ -113,17 +104,7 @@
 		</div>	
 	</div>
 </div>
-
-
-
 <!-- Table Ends here -->
-
      <%@include file="FooterBefore.jsp" %>	
-	
-		
-		
-<script type="text/javascript">
-
-</script>
 </body>
 </html>
