@@ -4,28 +4,19 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>Slider</title>
 
 <meta charset="utf-8">
     <title>Time Table</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="http://netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
 	<!-- CSS Files -->
-    <link href="table.css" rel="stylesheet" />
-          
+    <link href="table.css" rel="stylesheet" />         
     <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
     <script src="http://netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
-
-
-
-
-
 </head>
 <body>
-
-
-
-
+	
 <div class="fluid-container">
   <div id="myCarousel" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
@@ -163,9 +154,7 @@
       </div>
 
       <div class="item">
-        <!-- Section B Time Table Slide Starts -->
-		
-		
+        <!-- Section B Time Table Slide Starts -->	
 		
 		<center>
      <table>
@@ -276,10 +265,7 @@
 		</tr>
 		
 	 </table>
-	</center> 
-	
-	
-	
+	</center>
 	
 	<!-- Section B Time Table Slide Ends -->
 	
@@ -290,13 +276,7 @@
       </div>
     
       <div class="item">
-        <!-- Section C Time Table Slide Ends Here -->
-		
-		
-		
-		
-		
-		
+        <!-- Section C Time Table Slide Ends Here -->	
 		
 		<center>
      <table>
@@ -412,13 +392,7 @@
 	 </table>
 	</center> 
 		
-		
-		
-		
-		
 		<!-- Section C Time Table Slide Ends Here -->
-		
-		
 		
         <div class="carousel-caption">
           <h3>Section C </h3>
@@ -428,15 +402,7 @@
 	  
 	  <div class="item">
         <!-- Section D Time Table Slide Start  -->
-		
-		
-		
-		
-		
-		
-		
-		
-		
+			
 		<center>
      <table>
 	    <tr>
@@ -530,20 +496,12 @@
 		   <td>3:10-4:05</td>
 		   <td colspan="2"> <tooltip title="Management For Engineers">HMM305 </tooltip> <br/> <sub><pre>313A BLOCK-1          <a href="Login.jsp">SN</a></pre></</sub> </td>
 		   <td colspan="2"></td>
-		</tr>
-		
+	     </tr>	
 		
 	 </table>
 	</center> 
-		
-		
-		
-		
-		<!-- Section D Time Table Slide Ends -->
-		
-		
-		
-		
+		  
+		<!-- Section D Time Table Slide Ends -->	
 		
         <div class="carousel-caption">
           <h3>Section D </h3>
@@ -564,10 +522,5 @@
     </a>
   </div>
 </div>
-
-
-
-
-
 </body>
 </html>
