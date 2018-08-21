@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>Slider Default</title>
 
 <meta charset="utf-8">
     <title>Time Table</title>
@@ -156,10 +156,7 @@
       </div>
 
       <div class="item">
-        <!-- Section B Time Table Slide Starts -->
-		
-		
-		
+        <!-- Section B Time Table Slide Starts -->	
 		<center>
      <table>
 	    <tr>
@@ -269,10 +266,7 @@
 		</tr>
 		
 	 </table>
-	</center> 
-	
-	
-	
+	</center>	
 	
 	<!-- Section B Time Table Slide Ends -->
 	
@@ -397,15 +391,9 @@
 		
 		
 	 </table>
-	</center> 
+	</center> 	
 		
-		
-		
-		
-		
-		<!-- Section C Time Table Slide Ends Here -->
-		
-		
+		<!-- Section C Time Table Slide Ends Here -->	
 		
         <div class="carousel-caption">
           <h3>Section C </h3>
@@ -414,9 +402,7 @@
       </div>
 	  
 	  <div class="item">
-        <!-- Section D Time Table Slide Start  -->
-		
-			
+        <!-- Section D Time Table Slide Start  -->		
 		
 		<center>
      <table>
@@ -540,6 +526,5 @@
     </a>
   </div>
 </div>
-
 </body>
 </html>
