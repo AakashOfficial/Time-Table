@@ -5,15 +5,11 @@
 	 <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="http://netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
 	 <link rel="stylesheet" type="text/css" href="table.css"> 
-	 
 	 <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
     <script src="http://netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
    </head>
-   
    <body>
-   
   <%@include file="Header.jsp" %>
-   
     <center>
      <table>
 	    <tr>
@@ -67,11 +63,6 @@
 			
 	 </table>
 	</center> 	
-	
-<%@include file="Footer.jsp" %>
-    		
-<script type="text/javascript">
-
-</script>	
+<%@include file="Footer.jsp" %>	
    </body>
  </html>
