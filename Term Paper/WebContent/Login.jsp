@@ -6,12 +6,10 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="http://netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
     <link href="table.css" rel="stylesheet" />
-
     <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
     <script src="http://netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
 </head>
 <body>
-
 <%@include file="HeaderBefore.jsp" %>
 
             <div class="container">
@@ -32,7 +30,7 @@
                                         <input class="form-control" placeholder="Username" id="username" name="username" type="text">
                                         <input class="form-control" placeholder="Password" id="password" name="password" type="password">
                                         <br></br>
-                                        <input class="btn btn-lg btn-success btn-block" type="submit" id="login" value="Login »">
+                                        <input class="btn btn-lg btn-success btn-block" type="submit" id="login" value="Login Â»">
                                     </fieldset>
                                 </form>
                             </div>
@@ -43,9 +41,5 @@
  <div>
  <%@include file="FooterBefore.jsp" %>
  </div>           
-
-            
-<script type="text/javascript">
-</script>
 </body>
 </html>
