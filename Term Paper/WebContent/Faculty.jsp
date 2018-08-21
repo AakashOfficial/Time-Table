@@ -4,20 +4,14 @@
     <title>Time Table</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="http://netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
-	<!-- CSS Files -->
     <link href="table.css" rel="stylesheet">
 	<link href="Header.css" rel="stylesheet">
-	<link href="Faculty.css" rel="stylesheet" />
-          
+	<link href="Faculty.css" rel="stylesheet" />      
     <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
     <script src="http://netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
 </head>
-
-
 <body>
-
 <%@include file="Header.jsp" %>
-
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 <section class="team">
   <div class="container">
@@ -152,14 +146,6 @@
   </div>
 </section>
 
-
 <%@include file="Footer.jsp" %>
-		
-		
-<script type="text/javascript">
-
-</script>
-
-
 </body>
 </html>
